@@ -8,3 +8,4 @@ ALERT ServiceDown
     description = "Упал тестовый сервис.",
     phones = '79991234567,79997654321',
   }
+
